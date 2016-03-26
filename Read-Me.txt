@@ -1,0 +1,73 @@
+English/Français
+
+[English]
+----------
+
+A little history
+================
+
+Heston Type 5 Racer
+===================
+
+Manufacturer                  : Heston Type 5
+Type                          : Racer
+Year                          : 1940
+Powerplant                    :
+Wingspan                      :
+Length                        :
+Height                        :
+weight                        :
+Max speed                     :
+Range                         :
+Crew                          :
+
+Some useful keys:
+=================
+
+Thanks
+======
+
+===============
+BARANGER Emmanuel
+March, 25, 2016
+
+http://helijah.free.fr/flightgear/hangar.htm
+http://embaranger.free.fr
+embaranger@free.fr
+
+
+[Français]
+----------
+
+Un peu d'histoire
+=================
+
+Heston Type 5 Racer
+===================
+
+Constructeur                  : Heston
+Type                          : Avion de course
+Année                         : 1940
+Moteur                        :
+Envergure                     :
+Longueur                      :
+Hauteur                       :
+Poids estimé au décollage     :
+Vitesse max                   :
+Autonomie estimée             :
+Equipage                      :
+
+
+Quelques touches utiles :
+=========================
+
+Remerciements
+=============
+
+===============
+BARANGER Emmanuel
+25 Mars 2016
+
+http://helijah.free.fr/flightgear/hangar.htm
+http://embaranger.free.fr
+embaranger@free.fr
