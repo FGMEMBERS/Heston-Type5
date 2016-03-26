@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList>
+
+  <gear>
+    <brake-parking type="bool">true</brake-parking>
+  </gear>
+  
+  <engines>
+    <engine>
+      <on type="bool">false</on>
+      <rpm type="float">0</rpm>
+    </engine>
+  </engines>
+  
+  <lighting>
+    <instruments-norm>1</instruments-norm>
+  </lighting>
+  <!--  
+  <flight>
+    <elevator-trim>-0.015</elevator-trim>
+  </flight>
+  -->
+</PropertyList>
