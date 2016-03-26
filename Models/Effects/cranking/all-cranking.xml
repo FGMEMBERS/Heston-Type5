@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList>
+
+  <!-- Cranking effects -->
+  <!-- Left -->
+  <model>
+    <path>Aircraft/Heston-Type5/Models/Effects/cranking/cranking.xml</path>
+    <offsets>
+      <x-m> -2.08581 </x-m>
+      <y-m> -0.60849 </y-m>
+      <z-m>  0.20695 </z-m>
+    </offsets>
+  </model>
+
+  <model>
+    <path>Aircraft/Heston-Type5/Models/Effects/cranking/cranking.xml</path>
+    <offsets>
+      <x-m> -1.53318 </x-m>
+      <y-m> -0.62387 </y-m>
+      <z-m>  0.20695 </z-m>
+    </offsets>
+  </model>
+
+  <!-- Right -->
+  <model>
+    <path>Aircraft/Heston-Type5/Models/Effects/cranking/cranking.xml</path>
+    <offsets>
+      <x-m> -2.08581 </x-m>
+      <y-m>  0.60849 </y-m>
+      <z-m>  0.20695 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/Heston-Type5/Models/Effects/cranking/cranking.xml</path>
+    <offsets>
+      <x-m> -1.53318 </x-m>
+      <y-m>  0.62387 </y-m>
+      <z-m>  0.20695 </z-m>
+    </offsets>
+  </model>
+  
+</PropertyList>
